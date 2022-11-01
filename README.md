@@ -2,7 +2,7 @@
 
 <!-- # 💫About Me : --><br/>
 <li>🌱 I’m currently learning ReactJS</li><br/>
-<li>👨‍💻 All of my projects are available at https://ravichitiken.netlify.app</li><br/>
+<li>👨‍💻 All of my projects are available at https://ravichitiken.vercel.app</li><br/>
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravichitiken) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ravichitiken)
